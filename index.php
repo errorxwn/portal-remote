@@ -16,6 +16,14 @@
             <a href="register.php">Регистрация</a>
         </nav>
     </header>
+    <section class="services">
+  <h2>Наши услуги</h2>
+  <ul>
+    <li>Разработка сайтов</li>
+    <li>Техническая поддержка</li>
+    <li>Консультации</li>
+  </ul>
+</section>
     <script src="js/main.js"></script>
 </body>
 </html>
